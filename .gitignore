@@ -1,6 +1,7 @@
 /target
 /lib
 /classes
+/.idea
 /checkouts
 pom.xml
 pom.xml.asc
