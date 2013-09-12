@@ -14,4 +14,4 @@
 
 (def app (wrap-params my_routes))
 
-(defn -main [& args] (run-jetty my_routes {:port 9001}))
+(defn -main [& args] (run-jetty app {:port 9001}))
