@@ -8,5 +8,5 @@
          :auto-refresh? false}
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [ring/ring "1.2.0"]
-                 [compojure "1.2.0-SNAPSHOT"]
-                 [org.clojure/data.json "0.2.1"]])
+                 [ring/ring-json "0.2.0"]
+                 [compojure "1.2.0-SNAPSHOT"]])
